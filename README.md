@@ -14,7 +14,7 @@ hero and per skill, plus live enemy HP bars.
 <a href="#hotkeys"><img src="https://img.shields.io/badge/Hotkeys-2b303b?style=for-the-badge" alt="Hotkeys"></a>
 <a href="#settings"><img src="https://img.shields.io/badge/Settings-2b303b?style=for-the-badge" alt="Settings"></a>
 <a href="#faq"><img src="https://img.shields.io/badge/FAQ-2b303b?style=for-the-badge" alt="FAQ"></a>
-<a href="#support-the-project"><img src="https://img.shields.io/badge/Support%20me-72a4f2?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support the project"></a>
+<a href="#support-the-project"><img src="https://img.shields.io/badge/Support%20me-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support the project"></a>
 <a href="#contact"><img src="https://img.shields.io/badge/Contact-2b303b?style=for-the-badge" alt="Contact"></a>
 </p>
 
@@ -31,9 +31,9 @@ hero and per skill, plus live enemy HP bars.
 
 If this tool has been useful to you, please consider supporting continued development:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X2H028WJ61)
+[![Support on Patreon](https://img.shields.io/badge/Support%20on%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/sdsmeter)
 
-Direct link: [ko-fi.com/sdsmeter](https://ko-fi.com/sdsmeter)
+Monthly or one-time: [patreon.com/sdsmeter](https://www.patreon.com/sdsmeter)
 
 Your support keeps this project alive.
 
