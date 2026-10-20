@@ -4,6 +4,8 @@ A real-time damage meter overlay for **Seven Deadly Sins: Origin** on Windows.
 See how much damage everyone in your party deals, with a full breakdown per
 hero and per skill, plus live enemy HP bars.
 
+**THIS APP WILL STOP RECEIVING UPDATES ONCE OFFICIAL DPS METER IS RELEASED IN THE GAME**
+
 <p align="center">
 <a href="../../releases"><img src="https://img.shields.io/badge/Download-latest-4cc38a?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a>
 <a href="#features"><img src="https://img.shields.io/badge/Features-2b303b?style=for-the-badge" alt="Features"></a>
