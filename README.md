@@ -25,6 +25,10 @@ hero and per skill, plus live enemy HP bars.
 > no packet changes, no automation. The overlay is an ordinary separate window
 > on top of the game.
 
+*SDS Meter is a fan-made tool and isn't affiliated with or endorsed by Netmarble.
+Seven Deadly Sins: Origin and its assets belong to their respective owners. Even being a
+passive overlay that doesn't touch the game, USE IT AT YOUR OWN RISK!*
+
 ---
 
 ## Support the project
@@ -256,7 +260,7 @@ applies immediately and is saved.
 
 ## Contact
 
-Bug reports and suggestions: [GitHub Issues](../../issues) · Discord: `YOUR_DISCORD` · Email: `YOUR_EMAIL`
+Bug reports and suggestions: [GitHub Issues](../../issues)
 
 *SDS Meter is a fan-made tool and isn't affiliated with or endorsed by Netmarble.
 Seven Deadly Sins: Origin and its assets belong to their respective owners.*
