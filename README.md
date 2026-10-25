@@ -287,6 +287,11 @@ A window with options of its own has a **wrench** (🔧) in its title:
 > Skills with no icon of their own in the game files (some gear bonuses, combos,
 > new skills) are written out. New heroes get their icons in the next update.
 
+**Is all of the code available?**
+> Most of it, but not all. A few parts are left out of the shared source to avoid
+> problems, and so are the game's files (icons, names, tags, etc) due to possible
+> copyright issues.
+
 ---
 
 ## Contact
