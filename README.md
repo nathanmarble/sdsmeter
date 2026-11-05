@@ -44,6 +44,32 @@ Monthly or one-time: [patreon.com/sdsmeter](https://www.patreon.com/sdsmeter)
 
 Your support keeps this project alive.
 
+## Requirements
+
+- Windows 10 or 11
+- **[Npcap](https://npcap.com/#download)**, the free capture driver Wireshark
+  uses. If Wireshark is already installed, you already have it.
+- The game in **windowed** or **borderless** mode (an overlay can't be drawn over
+  exclusive fullscreen)
+
+---
+
+## Installation
+
+1. **Install Npcap** from [npcap.com](https://npcap.com/#download) and keep the
+   default options.
+   - Leave *"Restrict Npcap driver's access to Administrators only"*
+     **unchecked**. If you tick it, you have to run SDS Meter as administrator.
+2. **Download** the latest `sds_meter.exe` from the [Releases](../../releases) page.
+3. **Run** `sds_meter.exe`. No installer, nothing else to set up.
+   - Windows SmartScreen may warn about an unknown publisher, because the exe
+     isn't code-signed. Click **More info → Run anyway**.
+4. **Start the game** (windowed or borderless) and get into a fight.
+
+If Npcap is missing, SDS Meter tells you and offers to open the download page.
+
+---
+
 ---
 
 ## Features
@@ -154,32 +180,6 @@ Your support keeps this project alive.
 <td align="center" valign="top"><img src="images/effects_log.png" width="300" alt="Effect log"><br><sub><b>Effects, Log:</b> who put what on whom, and when</sub></td>
 </tr>
 </table>
-
----
-
-## Requirements
-
-- Windows 10 or 11
-- **[Npcap](https://npcap.com/#download)**, the free capture driver Wireshark
-  uses. If Wireshark is already installed, you already have it.
-- The game in **windowed** or **borderless** mode (an overlay can't be drawn over
-  exclusive fullscreen)
-
----
-
-## Installation
-
-1. **Install Npcap** from [npcap.com](https://npcap.com/#download) and keep the
-   default options.
-   - Leave *"Restrict Npcap driver's access to Administrators only"*
-     **unchecked**. If you tick it, you have to run SDS Meter as administrator.
-2. **Download** the latest `sds_meter.exe` from the [Releases](../../releases) page.
-3. **Run** `sds_meter.exe`. No installer, nothing else to set up.
-   - Windows SmartScreen may warn about an unknown publisher, because the exe
-     isn't code-signed. Click **More info → Run anyway**.
-4. **Start the game** (windowed or borderless) and get into a fight.
-
-If Npcap is missing, SDS Meter tells you and offers to open the download page.
 
 ---
 
