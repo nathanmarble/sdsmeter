@@ -63,7 +63,8 @@ Your support keeps this project alive.
 2. **Download** the latest `sds_meter.exe` from the [Releases](../../releases) page.
 3. **Run** `sds_meter.exe`. No installer, nothing else to set up.
    - Windows SmartScreen may warn about an unknown publisher, because the exe
-     isn't code-signed. Click **More info → Run anyway**.
+     isn't code-signed (too expensive to pay for code signing for a temporary tool like this).
+     Click **More info → Run anyway**.
 4. **Start the game** (windowed or borderless) and get into a fight.
 
 If Npcap is missing, SDS Meter tells you and offers to open the download page.
