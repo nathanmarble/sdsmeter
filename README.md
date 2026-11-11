@@ -6,6 +6,8 @@ hero and per skill, plus live enemy HP bars.
 
 **THIS APP WILL STOP RECEIVING UPDATES ONCE OFFICIAL DPS METER IS RELEASED IN THE GAME**
 
+WARNING! This branch cloned part of my code and created a separate app. I have no relations to it: https://github.com/W99eiei/w99-origin-damage-tracker
+
 <p align="center">
 <a href="../../releases"><img src="https://img.shields.io/badge/Download-latest-4cc38a?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a>
 <a href="#features"><img src="https://img.shields.io/badge/Features-2b303b?style=for-the-badge" alt="Features"></a>
